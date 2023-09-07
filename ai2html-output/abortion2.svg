@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exportSvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600.5 401.57">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #181818;
+        stroke-linecap: square;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        font-size: 12px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        isolation: isolate;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-18 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-10, .cls-15 {
+        fill: #181818;
+      }
+
+      .cls-11 {
+        fill: #a2a2a2;
+      }
+
+      .cls-12 {
+        fill: #1d81a2;
+      }
+
+      .cls-13, .cls-8 {
+        fill: #c71e1d;
+      }
+
+      .cls-14 {
+        fill: #747474;
+      }
+
+      .cls-15 {
+        font-size: 14px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-4 {
+        stroke: #1f6d9c;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: #c71e1d;
+      }
+
+      .cls-16 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 22px;
+        font-weight: 700;
+      }
+
+      .cls-18 {
+        fill: #888;
+        font-size: 11px;
+      }
+
+      .cls-6 {
+        stroke: #e7e7e7;
+      }
+
+      .cls-7 {
+        fill: #1f6d9c;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x=".5" y="62" width="600" height="305"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x=".5" y="62" width="16" height="20"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-2" x="80.66" y="62" width="16" height="20"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-9" x=".5" width="600" height="400"/>
+  <g id="_svelte-dw-svg" data-name="  svelte-dw-svg">
+    <g class="cls-17">
+      <text class="cls-16" transform="translate(.5 22)"><tspan x="0" y="0">Abortion</tspan></text>
+      <text class="cls-15" transform="translate(.5 49)"><tspan x="0" y="0">% of voters who say abortion is &apos;very important&apos; to their vote in the upcoming election</tspan></text>
+    </g>
+    <g id="chart-svg">
+      <g class="cls-1">
+        <g id="svg-main-svg">
+          <g id="group-svg">
+            <g id="y-grid-svg">
+              <g id="y-grid-lines-svg_grid-y-svg_datawrapper-tO9wE-1fn7900-svg" data-name="y-grid-lines-svg grid-y-svg datawrapper-tO9wE-1fn7900-svg">
+                <line class="cls-6" x1=".5" y1="111" x2="593.63" y2="111"/>
+                <line class="cls-6" x1=".5" y1="140.5" x2="593.63" y2="140.5"/>
+                <line class="cls-6" x1=".5" y1="170" x2="593.63" y2="170"/>
+                <line class="cls-6" x1=".5" y1="199.5" x2="593.63" y2="199.5"/>
+                <line class="cls-6" x1=".5" y1="229" x2="593.63" y2="229"/>
+                <line class="cls-6" x1=".5" y1="258.5" x2="593.63" y2="258.5"/>
+                <line class="cls-6" x1=".5" y1="288" x2="593.63" y2="288"/>
+                <line class="cls-6" x1=".5" y1="317.5" x2="593.63" y2="317.5"/>
+              </g>
+            </g>
+            <g id="lines-svg">
+              <g id="Republican-svg">
+                <path id="Republican" class="cls-5" d="m59.36,211.3l525.42,14.75"/>
+              </g>
+              <g id="Democrat-svg">
+                <path id="Democrat" class="cls-4" d="m59.36,243.75l525.42-106.2"/>
+              </g>
+            </g>
+            <g id="line-symbols-svg">
+              <path id="Republican-2" data-name="Republican" class="cls-8" d="m62.86,211.3c0,1.93-1.57,3.5-3.5,3.5s-3.5-1.57-3.5-3.5,1.57-3.5,3.5-3.5,3.5,1.57,3.5,3.5"/>
+              <path id="Republican-3" data-name="Republican" class="cls-8" d="m588.27,226.05c0,1.93-1.57,3.5-3.5,3.5s-3.5-1.57-3.5-3.5,1.57-3.5,3.5-3.5,3.5,1.57,3.5,3.5"/>
+              <path id="Democrat-2" data-name="Democrat" class="cls-7" d="m62.86,243.75c0,1.93-1.57,3.5-3.5,3.5s-3.5-1.57-3.5-3.5,1.57-3.5,3.5-3.5,3.5,1.57,3.5,3.5"/>
+              <path id="Democrat-3" data-name="Democrat" class="cls-7" d="m588.27,137.55c0,1.93-1.57,3.5-3.5,3.5s-3.5-1.57-3.5-3.5,1.57-3.5,3.5-3.5,3.5,1.57,3.5,3.5"/>
+            </g>
+            <g id="x-grid-svg">
+              <g id="x-tick-labels-svg_date-axis-svg_grid-x-svg_datawrapper-tO9wE-63wp0p-svg" data-name="x-tick-labels-svg date-axis-svg grid-x-svg datawrapper-tO9wE-63wp0p-svg">
+                <g class="cls-17">
+                  <text class="cls-14" transform="translate(46.01 364)"><tspan x="0" y="0">2020</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-14" transform="translate(571.43 364)"><tspan x="0" y="0">2022</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g id="y-grid-svg-2" data-name="y-grid-svg">
+              <g id="y-tick-labels-svg_number-axis-svg_grid-y-svg_datawrapper-tO9wE-yhj5g2-svg" data-name="y-tick-labels-svg number-axis-svg grid-y-svg datawrapper-tO9wE-yhj5g2-svg">
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 342)"><tspan x="0" y="0">0</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 312.5)"><tspan x="0" y="0">10</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 283)"><tspan x="0" y="0">20</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 253.5)"><tspan x="0" y="0">30</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 224)"><tspan x="0" y="0">40</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 194.5)"><tspan x="0" y="0">50</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 165)"><tspan x="0" y="0">60</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 135.5)"><tspan x="0" y="0">70</tspan></text>
+                </g>
+                <g class="cls-17">
+                  <text class="cls-11" transform="translate(.5 106)"><tspan x="0" y="0">80</tspan></text>
+                </g>
+              </g>
+              <g id="y-base-lines-svg_grid-y-svg_datawrapper-tO9wE-1io9s9d-svg" data-name="y-base-lines-svg grid-y-svg datawrapper-tO9wE-1io9s9d-svg">
+                <line class="cls-3" x1="593.63" y1="347" x2=".5" y2="347"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-19">
+        <g id="Democrat-svg-2" data-name="Democrat-svg">
+          <path id="Democrat-4" data-name="Democrat" class="cls-4" d="m1.5,72h14"/>
+        </g>
+      </g>
+      <g id="Democrat-5" data-name="Democrat" class="cls-17">
+        <text class="cls-10" transform="translate(20.5 77.61)"><tspan x="0" y="0">Democrat</tspan></text>
+      </g>
+      <g class="cls-20">
+        <g id="Republican-svg-2" data-name="Republican-svg">
+          <path id="Republican-4" data-name="Republican" class="cls-5" d="m81.66,72h14"/>
+        </g>
+      </g>
+      <g id="Republican-5" data-name="Republican" class="cls-17">
+        <text class="cls-10" transform="translate(100.66 77.61)"><tspan x="0" y="0">Republican</tspan></text>
+      </g>
+      <g class="cls-17">
+        <text class="cls-12" transform="translate(51.5 262)"><tspan x="0" y="0">35</tspan></text>
+      </g>
+      <g class="cls-17">
+        <text class="cls-12" transform="translate(576.5 133)"><tspan x="0" y="0">71</tspan></text>
+      </g>
+      <g class="cls-17">
+        <text class="cls-13" transform="translate(51.5 205)"><tspan x="0" y="0">46</tspan></text>
+      </g>
+      <g class="cls-17">
+        <text class="cls-13" transform="translate(578.5 245)"><tspan x="0" y="0">41</tspan></text>
+      </g>
+    </g>
+    <g class="cls-17">
+      <text class="cls-18" transform="translate(.5 398)"><tspan x="0" y="0">Source:</tspan></text>
+      <text class="cls-18" transform="translate(41.14 398)"><tspan x="0" y="0">Pew Research Center</tspan></text>
+      <text class="cls-18" transform="translate(151.49 398)"><tspan x="0" y="0">•</tspan></text>
+      <text class="cls-18" transform="translate(158.08 398)"><tspan x="0" y="0">Created with</tspan></text>
+      <text class="cls-18" transform="translate(222.56 398)"><tspan x="0" y="0">Datawrapper</tspan></text>
+    </g>
+  </g>
+</svg>
