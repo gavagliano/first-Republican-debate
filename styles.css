@@ -1,7 +1,70 @@
 .custom-paragraph {
     font-size: 15px;
     color: #333;
-    margin: 10px 0;
+    margin: 10px;
     font-family: Arial, Helvetica, sans-serif
 
 }
+
+.custom-paragraph .first-line {
+    font-size: 1.2em; /* Adjust the font size as needed */
+    /* You can also apply other styling, such as color or font-weight */
+    font-weight: bold;
+  }
+
+
+.header-container {
+    display: grid; /* Use flexbox for layout control */
+    grid-template-columns: 1fr 1fr;
+    align-items: center; /* Vertically center align items */
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 1200px; /* Adjust the maximum width of the header */
+  }
+  
+  h1 {
+    text-align: left;
+    margin: 0;
+    margin-right: 10px; /* Add space between h1 and SVG */
+  }
+
+  /* Apply any additional CSS to adjust the appearance of the SVG if needed */
+.ai2html {
+    width: 150%; /* Adjust the width as needed */
+    margin: 0 auto;
+  }
+
+.title-column {
+    flex: 1; /* Expand to take available space */
+    text-align: left; /* Align the title to the left side */
+  }
+
+.svg-column {
+    flex: 1; /* Expand to take available space */
+    text-align: right; /* Align the SVG to the right side */
+  }
+
+.svg-container {
+    display: block; /* Ensures the container takes up the full width of its parent */
+    margin: 20px 0; /* Adds vertical spacing between the SVGs (adjust as needed) */
+ }
+
+ svg {
+    display: block; /* Ensures each SVG takes up its full container width */
+    margin-bottom: 20px; /* Adds vertical spacing between the SVGs (adjust as needed) */
+ }
+
+
+body {
+    margin: 0 20px; /* Adjust the value to your preference */
+  }
+
+.article-container {
+    max-width: 600px; /* Adjust the maximum width to your preference */
+    margin: 0 auto; /* Center the container on the page */
+    padding-bottom: 20px;
+  }
+
+  p {
+    margin-bottom: 20px; /* Adjust the value to control the space between paragraphs */
+  }
